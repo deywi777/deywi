@@ -1,0 +1,1 @@
+let config={preloaderDelay:2.5,showDelay:7.5,title:"deywiiiii;]]]",social:{instagram:"bit.ly/3FWi6Ny",steam:"bit.ly/steam_dejwol",discord:"bit.ly/dc_deywi",twitter:"bit.ly/twitter_deywi",spotify:"spoti.fi/3WL6Z0p"};
